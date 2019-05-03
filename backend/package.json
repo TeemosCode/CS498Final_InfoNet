@@ -3,7 +3,7 @@
   "version": "1.0.0",
   "description": "Final Project for CS498RK Spring 2019",
   "authors": [
-    "Team member names here <uiuc email here>"
+    "Roger Ho <pingche2@illinois.edu>"
   ],
   "scripts": {
     "start": "nodemon --exec node server.js"
@@ -28,5 +28,8 @@
     "nodemon": "^1.18.10",
     "passport": "^0.4.0",
     "passport-local": "^1.0.0"
+  },
+  "engines": {
+    "node": "10.x"
   }
 }
